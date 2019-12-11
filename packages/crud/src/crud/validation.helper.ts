@@ -15,8 +15,8 @@ function ApiModelProperty(options?: any): PropertyDecorator {
     /* istanbul ignore else */
     if (swagger) {
       // tslint:disable-next-line
-      const { ApiModelProperty } = swagger;
-      ApiModelProperty(options)(target, propertyKey);
+      const { ApiProperty } = swagger;
+      ApiProperty(options)(target, propertyKey);
     }
   };
 }

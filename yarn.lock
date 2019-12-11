@@ -1107,13 +1107,13 @@
     express "4.17.1"
     multer "1.4.2"
 
-"@nestjs/swagger@3.1.0":
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/@nestjs/swagger/-/swagger-3.1.0.tgz#eea2d2ef7416a588e5f122b58cd194884e265dc4"
-  integrity sha512-12J7cEcj1K2TtCrxVktRrdW6j5bT7BaruNXPlyzBjs3uJopLLOYSR7j5+2JvlPK+uQcnnZFIOiffYEXoozm/zg==
+"@nestjs/swagger@4.0.8":
+  version "4.0.8"
+  resolved "https://registry.yarnpkg.com/@nestjs/swagger/-/swagger-4.0.8.tgz#1e9bae3b8f7fe446ebf8fa321d774f8af9e83857"
+  integrity sha512-GOaRW7abKaL+0li3xub+6RP/KhvpWrj+UWKe5Kop/sdi0vYInE7VH/t7kOLyeBcFZ7FVvv3MxDcYAkzFIm63Nw==
   dependencies:
-    lodash "4.17.14"
-    path-to-regexp "3.0.0"
+    lodash "4.17.15"
+    path-to-regexp "6.1.0"
 
 "@nestjs/testing@6.6.7":
   version "6.6.7"
@@ -6768,10 +6768,10 @@ path-to-regexp@0.1.7:
   resolved "https://registry.yarnpkg.com/path-to-regexp/-/path-to-regexp-0.1.7.tgz#df604178005f522f15eb4490e7247a1bfaa67f8c"
   integrity sha1-32BBeABfUi8V60SQ5yR6G/qmf4w=
 
-path-to-regexp@3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/path-to-regexp/-/path-to-regexp-3.0.0.tgz#c981a218f3df543fa28696be2f88e0c58d2e012a"
-  integrity sha512-ZOtfhPttCrqp2M1PBBH4X13XlvnfhIwD7yCLx+GoGoXRPQyxGOTdQMpIzPSPKXAJT/JQrdfFrgdJOyAzvgpQ9A==
+path-to-regexp@6.1.0:
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/path-to-regexp/-/path-to-regexp-6.1.0.tgz#0b18f88b7a0ce0bfae6a25990c909ab86f512427"
+  integrity sha512-h9DqehX3zZZDCEm+xbfU0ZmwCGFCAAraPJWMXJ4+v32NjZJilVg3k1TcKsRgIb8IQ/izZSaydDc1OhJCZvs2Dw==
 
 path-type@^1.0.0:
   version "1.1.0"
